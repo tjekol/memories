@@ -10,6 +10,7 @@
 </div>
 
 ## Website for my photos.
+This is a website for photos that I've taken with my camera.
 
 ### Hvordan kjøre?
 
